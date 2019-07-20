@@ -4,5 +4,6 @@ class Main{
         HalfPyramid hp =new HalfPyramid();
         int a=5;
         hp.hP(a);
+        
     }
 }
